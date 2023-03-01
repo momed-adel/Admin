@@ -1,0 +1,3 @@
+*.secret
+ansible.creds
+*.o
